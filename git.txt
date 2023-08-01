@@ -1,3 +1,0 @@
-<html>
-	<name>hello</name>
-</html>
